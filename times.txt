@@ -1,0 +1,4 @@
+On the XC-40:
+lighttest-small
+BSP : 40 seconds
+Light : 551 seconds
